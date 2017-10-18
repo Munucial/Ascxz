@@ -1,2 +1,2 @@
 # ascxz
-A special connection port of Munucial's app
+A special project that will run Andrew's favorite project created by Munucial
