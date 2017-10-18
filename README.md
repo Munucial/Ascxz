@@ -2,7 +2,7 @@
 
 ## Menu
 
-* [Why we call **Ascxz**](#why)?
+* [Why we call **Ascxz**](#why-we-call-ascxz)?
 * Current planning
 
 ---
