@@ -22,3 +22,5 @@
 >I tried 5 letter, **Andrew's secured private communication zone** -> **aspcz.com**, yes perfect, but...**ascxz** types smoother (you know), although doesn't have meaning at all, but I like it :)
 
 ---
+
+<footer id="copyright">&copy; 2017 Ascxz, Munucial, Andrewyg<br />All rights reserved</footer>
