@@ -1,7 +1,10 @@
 # Welcome to Ascxz
 
 ## Menu
-* Why we call ***Ascxz***?
+
+* [Why we call **Ascxz**](#why)?
 * Current planning
+
+---
 	
-## [Test anchor](#test)
+## [Why we call **Ascxz**?](#why)
