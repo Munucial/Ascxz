@@ -1,3 +1,9 @@
+<style>
+	.center {
+		text-align: center;
+	}
+</style>
+
 # Welcome to Ascxz
 
 ## Menu
@@ -23,4 +29,4 @@
 
 ---
 
-<footer id="copyright">&copy; 2017 Ascxz, Munucial, Andrewyg<br />All rights reserved</footer>
+<footer id="copyright" class="center">&copy; 2017 Ascxz, Munucial, Andrewyg<br />All rights reserved</footer>
